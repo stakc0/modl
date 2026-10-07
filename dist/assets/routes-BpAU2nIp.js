@@ -1,1 +1,0 @@
-import{t as e}from"./jsx-runtime-BdxMnOeJ.js";import{t}from"./arcade-Cf7MII1S.js";var n=e(),r=()=>(0,n.jsx)(t,{children:(0,n.jsx)(`p`,{children:`Not found.`})});export{r as notFoundComponent};

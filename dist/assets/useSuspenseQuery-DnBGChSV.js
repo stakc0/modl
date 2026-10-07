@@ -1,1 +1,0 @@
-import{_ as e,v as t,y as n}from"./arcade-Cf7MII1S.js";function r(r,i){return e({...r,enabled:!0,suspense:!0,throwOnError:t,placeholderData:void 0},n,i)}export{r as t};

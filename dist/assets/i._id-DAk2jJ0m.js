@@ -1,1 +1,0 @@
-import{st as e}from"./studio-kinds-CqmzfjLM.js";import{t}from"./jsx-runtime-BdxMnOeJ.js";import{t as n}from"./arcade-Cf7MII1S.js";var r=t(),i=()=>(0,r.jsxs)(n,{rail:!0,children:[(0,r.jsx)(`h1`,{className:`text-4xl`,children:`Influencer not found`}),(0,r.jsx)(e,{to:`/explore`,className:`mt-4 inline-block text-primary`,children:`Explore →`})]});export{i as notFoundComponent};
